@@ -1,14 +1,14 @@
 [
     {
         "author" : "Loak",
-        "name" : "Loakness",
+        "name" : "Loak_Loakness",
         "keyWords" : "Loak,Galaxie,bleu,bleue,cyan,brumaire",
-        "version" : "1.0.2",
+        "version" : "1.0.8",
         "dofusVersion" : "2.38",
         "description" : "Theme galaxie de Dofus",
-        "url" : "https://github.com/Loakness/Loakness/blob/master/Loakness.zip?raw=true",
-        "previewUrl" : "http://nsa38.casimages.com/img/2016/11/29/161129094357324782.jpg",
-        "creationDate" : "29/11/2016",
+        "url" : "https://github.com/Loakness/Loakness/blob/master/Loak_Loakness.zip?raw=true",
+        "previewUrl" : "http://nsa38.casimages.com/img/2016/11/30/16113006523247417.jpg",
+        "creationDate" : "01/09/2016",
         "modificationDate" : "29/11/2016"
     }
 ]
